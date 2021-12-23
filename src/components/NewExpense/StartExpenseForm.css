@@ -1,0 +1,35 @@
+.startExpenseForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.startExpenseForm button {
+  font: inherit;
+  cursor: pointer;
+
+  border: 1px solid #40005d;
+  background-color: #40005d;
+  color: white;
+  border-radius: 12px;
+}
+
+.startExpenseForm button:hover,
+.startExpenseForm button:active {
+  background-color: #510674;
+  border-color: #510674;
+}
+
+.startExpenseForm button.alternative {
+  color: #220131;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.startExpenseForm button.alternative:hover,
+.startExpenseForm button.alternative:active {
+  background-color: #ddb3f8;
+}
