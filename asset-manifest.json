@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PersonalMoneyTracker/static/css/main.82a61e9e.css",
+    "main.js": "/PersonalMoneyTracker/static/js/main.4bd6fb3b.js",
+    "static/js/787.7ea47a1e.chunk.js": "/PersonalMoneyTracker/static/js/787.7ea47a1e.chunk.js",
+    "index.html": "/PersonalMoneyTracker/index.html",
+    "main.82a61e9e.css.map": "/PersonalMoneyTracker/static/css/main.82a61e9e.css.map",
+    "main.4bd6fb3b.js.map": "/PersonalMoneyTracker/static/js/main.4bd6fb3b.js.map",
+    "787.7ea47a1e.chunk.js.map": "/PersonalMoneyTracker/static/js/787.7ea47a1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a61e9e.css",
+    "static/js/main.4bd6fb3b.js"
+  ]
+}
